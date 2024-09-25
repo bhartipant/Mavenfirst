@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Master suite">
+<suite-files>
+<suite-file path="C:\Users\Lenovo\eclipse-workspace\maven_project\firstsegment_Sr1.xml"></suite-file>
+<suite-file path="C:\Users\Lenovo\eclipse-workspace\maven_project\secondsegment_SR2.xml"></suite-file>
+<suite-file path="C:\Users\Lenovo\eclipse-workspace\maven_project\thirdsegment_sr3.xml"></suite-file>
+
+</suite-files>
+</suite>

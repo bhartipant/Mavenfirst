@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T23:35:50 IST" name="Suite" finished-at="2024-09-23T23:35:50 IST" duration-ms="529">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T23:35:50 IST" name="Test" finished-at="2024-09-23T23:35:50 IST" duration-ms="529">
+      <class name="SecondSegment_SR2.SecondSegment">
+        <test-method signature="Menu_Option()[pri:0, instance:SecondSegment_SR2.SecondSegment@58e1d9d]" started-at="2024-09-23T23:35:50 IST" name="Menu_Option" finished-at="2024-09-23T23:35:50 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menu_Option -->
+        <test-method signature="SerchOption()[pri:0, instance:SecondSegment_SR2.SecondSegment@58e1d9d]" started-at="2024-09-23T23:35:50 IST" name="SerchOption" finished-at="2024-09-23T23:35:50 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SerchOption -->
+      </class> <!-- SecondSegment_SR2.SecondSegment -->
+      <class name="ThirdSegment_SR3.thirdsegment">
+        <test-method signature="Multiple_Product()[pri:0, instance:ThirdSegment_SR3.thirdsegment@446a1e84]" started-at="2024-09-23T23:35:50 IST" name="Multiple_Product" finished-at="2024-09-23T23:35:50 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiple_Product -->
+        <test-method signature="Product_list()[pri:0, instance:ThirdSegment_SR3.thirdsegment@446a1e84]" started-at="2024-09-23T23:35:50 IST" name="Product_list" finished-at="2024-09-23T23:35:50 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_list -->
+      </class> <!-- ThirdSegment_SR3.thirdsegment -->
+      <class name="FirstSegment_SR1.FirstSegment">
+        <test-method signature="UserIDCreation()[pri:0, instance:FirstSegment_SR1.FirstSegment@6f43c82]" started-at="2024-09-23T23:35:50 IST" name="UserIDCreation" finished-at="2024-09-23T23:35:50 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserIDCreation -->
+        <test-method signature="User_name_field()[pri:0, instance:FirstSegment_SR1.FirstSegment@6f43c82]" started-at="2024-09-23T23:35:50 IST" name="User_name_field" finished-at="2024-09-23T23:35:50 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_name_field -->
+      </class> <!-- FirstSegment_SR1.FirstSegment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
